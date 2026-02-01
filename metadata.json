@@ -1,0 +1,7 @@
+{
+  "name": "Aria 5.0 Core Terminal",
+  "description": "An advanced intelligence interface for the Aria-5.0 system, integrating Gemini for real-time JDK analysis and Java development assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
